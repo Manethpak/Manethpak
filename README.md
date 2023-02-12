@@ -41,7 +41,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-maneth--pak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maneth-pak/)](https://www.linkedin.com/in/maneth-pak/)
-![Telegram Badge](https://img.shields.io/badge/-+85593442385-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/maneth-pak/)
+[![Telegram Badge](https://img.shields.io/badge/-@maneth_1-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/maneth_1)](https://t.me/maneth_1)
 [![Twitter Badge](https://img.shields.io/badge/-@Nth__much-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nth_much)](https://twitter.com/Nth_much)
 
 
