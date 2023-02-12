@@ -40,9 +40,11 @@
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-maneth--pak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maneth-pak/)](https://www.linkedin.com/in/maneth-pak/)
-[![Telegram Badge](https://img.shields.io/badge/-@maneth_1-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/maneth_1)](https://t.me/maneth_1)
-[![Twitter Badge](https://img.shields.io/badge/-@Nth__much-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nth_much)](https://twitter.com/Nth_much)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maneth-pak/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maneth_1)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nth_much)
+[![Whatapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://https://wa.me/+85593442385)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/manethpak)
 
 
 ### 📈 Github Stats:
