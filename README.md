@@ -11,12 +11,12 @@
 
 ### A software engineering student trying his best to live his dream<br>
 
-- 👨‍🏭 I’m currently pursuing **Bachelor Degree in Software Engineering at Kirirom Institute of Technology.** <br>
-- 🏫 I’m currently learning **Fullstack Web Development, DSA for Competitive Programming.** <br>
-- 🙌 I’m looking to collaborate on **Web Development project.** <br>
-- 🤔 I’m looking for help with **Competitive Programming and building a Portfolio as a software engineer.**<br>
-- 🥅 2022 Goals: <s>**Secure an Internship with big tech company.**</s> <br>
-- 🥅 2023 Goals: Survive
+- I’m currently pursuing **Bachelor Degree in Software Engineering at [Kirirom Institute of Technology](https://kit.edu.kh/).** <br>
+- I’m currently learning **Fullstack Web Development, DSA for Competitive Programming, Blockchian development** <br>
+- I’m looking to collaborate on **Any project** <br>
+- I’m looking for help with **Competitive Programming and building a Portfolio as a software engineer.**<br>
+- 2022 Goals: <s>**Secure an Internship with big tech company.**</s> <br>
+- 2023 Goals: Survive
   
 ### Languages and Tools
   
