@@ -52,7 +52,7 @@
 
 <br>
 <a href="https://github.com/Manethpak">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manethpak&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manethpak&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true"> -->
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
