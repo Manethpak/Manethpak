@@ -35,18 +35,15 @@
 
 
 ### 📈 Github Stats:
-
-
-<br>
 <a href="https://github.com/Manethpak">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manethpak&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true"> -->
 </a>
-<br><br>
+<br>
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Manethpak&layout=compact&theme=vision-friendly-dark" />
 </a>
 <br>
-<br><br>
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manethpak&theme=dark)](https://git.io/streak-stats)
 
