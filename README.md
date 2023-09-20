@@ -1,7 +1,7 @@
 
 
-<div style="background-color:#121212">
-<div style="color:#fff">
+<div>
+<div>
   
 # Hi, I'm Maneth <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
@@ -40,8 +40,5 @@
 </a>
 <br>
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manethpak&theme=dark)](https://git.io/streak-stats)
-
 </div>
 </div>
