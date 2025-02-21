@@ -2,8 +2,8 @@
 
 <div>
 <div>
-  
-### Hi, I'm Maneth <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+
+<a href="https://app.daily.dev/manethpak"><img src="https://api.daily.dev/devcards/v2/qNDKuWrL2Y7HSvdznRrB4.png?r=g44&type=wide" width="652" alt="Pak Maneth's Dev Card"/></a>
 
 Just your average neighborhood Software Engineer trying to survive
 
