@@ -1,9 +1,4 @@
-
-
 <div>
-<div>
-
-<a href="https://app.daily.dev/manethpak"><img src="https://api.daily.dev/devcards/v2/qNDKuWrL2Y7HSvdznRrB4.png?r=g44&type=wide" width="652" alt="Pak Maneth's Dev Card"/></a>
 
 Just your average neighborhood Software Engineer trying to survive
 
@@ -29,21 +24,17 @@ Just your average neighborhood Software Engineer trying to survive
 
 
 ### 📈 Github Stats:
-<a href="https://github.com/Manethpak">
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manethpak&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true"> -->
-</a>
-<br>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Manethpak&layout=compact&theme=vision-friendly-dark" />
-</a>
-<br>
-<br>
+![manethpak streak badge](https://github-readme-streak-stats.herokuapp.com?user=manethpak&theme=dark)
+![profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manethpak&theme=gruvbox)
+![repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manethpak&theme=gruvbox) 
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manethpak&theme=gruvbox)
 
+![manethpak trophies](https://github-profile-trophy.vercel.app/?username=manethpak&theme=gruvbox&row=1&column=6)
+<br>
 
 **Contact me at**
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maneth-pak/)
 [![Whatapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+85593442385)
-  
-</div>
+ 
 </div>
